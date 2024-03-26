@@ -1,0 +1,20 @@
+[
+	{"id_etudiant": "00", "nom":"Aucun étudiant sélectionné", "session": "" , "cours": []},
+	
+	{"id_etudiant": "01", "nom":"Jean", "session": "1", "cours": ["Prog1"]},
+	
+	{"id_etudiant": "02", "nom":"Alice", "session": "2", "cours": ["Prog2"]},
+	
+	{"id_etudiant": "03", "nom":"Marie", "session": "2", "cours": ["Prog2"]},
+	
+	{"id_etudiant": "04", "nom":"Marco", "session": "1", "cours": ["Prog1"]},
+
+	{"id_etudiant": "05", "nom":"Sophie", "session": "3", "cours": ["Prog3", "App.Mobile1"]},
+
+  {"id_etudiant": "06", "nom":"Alex", "session": "2", "cours": ["Prog2"]},
+
+
+
+
+
+]
